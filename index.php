@@ -25,7 +25,7 @@
 </head>
 <body>
 	<div class="wrapper">
-		<h1 class="mb-0">Greating Earthlings!</h1>
+		<h1 class="mb-0">Greetings Earthlings!</h1>
 	</div>
 </body>
 <script src="assets/js/core/jquery.3.2.1.min.js"></script>
